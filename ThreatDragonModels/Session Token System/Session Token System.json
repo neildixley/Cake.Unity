@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "title": "Session Token System"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "neildixley"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Basic Auth",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  },
+  "location": {
+    "organisation": "neildixley",
+    "repo": "Cake.Unity",
+    "branch": "master",
+    "model": "Session Token System"
+  }
+}
